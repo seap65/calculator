@@ -1,6 +1,6 @@
 import React from "react";
 
-import "./Keypad.css";
+import "./KeyPad.css";
 
 function KeyPad(props) {
   const keys = [
